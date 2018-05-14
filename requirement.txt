@@ -1,0 +1,4 @@
+these folders need backup:
+c:\users\xxx\downloads
+C:\users\xxx\documents
+c:\users\xxx\desktop
