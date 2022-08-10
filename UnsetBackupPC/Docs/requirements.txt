@@ -1,0 +1,4 @@
+1. Clear the PC net work connection
+2. reset edge brower
+3. backup tencent folder
+4. backup wechat folder
